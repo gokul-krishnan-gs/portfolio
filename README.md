@@ -7,8 +7,8 @@ This project is a part of my learning journey as an aspiring **full stack develo
 
 ## 🚀 Live Preview
 
-[🔗 View Portfolio Website](#)  
-*(Update with your hosted link once deployed — GitHub Pages, Netlify, etc.)*
+[🔗 View Portfolio Website](https://gokul-krishnan-gs.github.io/portfolio/)  
+
 
 ---
 
